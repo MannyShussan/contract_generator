@@ -1,0 +1,42 @@
+[
+  {
+    "coluna1": "INCORPORADORA:",
+    "coluna2": "__________________________",
+    "coluna3": "__________________________"
+  },
+  {
+    "coluna1": "",
+    "coluna2": "Incorporadora",
+    "coluna3": "Incorporadora"
+  },
+  {
+    "coluna1": "",
+    "coluna2": "[NomeConstrutora]",
+    "coluna3": "[NomeConstrutora]"
+  },
+  {
+    "coluna1": "",
+    "coluna2": "[NomeConstrutora0]",
+    "coluna3": "[NomeConstrutora1]"
+  },
+  {
+    "coluna1": "ADQUIRENTE(S):",
+    "coluna2": "__________________________",
+    "coluna3": "__________________________"
+  },
+  {
+    "coluna1": "",
+    "coluna2": "[NomeAdquirente0]",
+    "coluna3": "[NomeAdquirente1]"
+  },
+  {
+    "coluna1": "TESTEMUNHAS:",
+    "coluna2": "__________________________",
+    "coluna3": "__________________________"
+  },
+  {
+    "coluna1": "",
+    "coluna2": "[NomeTestemunha0]",
+    "coluna3": "[NomeTestemunha1]"
+  }
+]

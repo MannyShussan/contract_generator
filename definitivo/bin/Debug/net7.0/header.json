@@ -1,0 +1,137 @@
+[
+  {
+    "texto": "ADITIVO CONTRATUAL À PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM CONSTRUÇÃO ",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "que fazem entre si, de um lado a ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "INCORPORADORA ",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[NomeConstrutora] ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "texto": ", e de outro lado o(s) ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "ADQUIRENTE(S) ",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[Adquirentes] ",
+    "bold": false,
+    "color": [
+      0,
+      176,
+      240
+    ]
+  },
+  {
+    "texto": ", referente à ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "UNIDADE ",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[NumeroApto] ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "texto": ", TORRE ",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[Torre] ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "texto": "do ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "EMPREENDIMENTO ",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[NomeEmpreendimento] ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  }
+]

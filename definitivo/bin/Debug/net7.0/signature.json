@@ -1,0 +1,101 @@
+[
+  {
+    "texto": "Estando as partes de acordo com o presente ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "texto": "ADITIVO",
+    "bold": true,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": ", assinam em 02 (duas) vias de igual teor e forma para um só efeito, na presença de testemunhas e que fica fazendo parte integrante do contrato original.\n\n",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[Cidade]",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "texto": ", ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[DiaAssinado]",
+    "bold": false,
+    "color": [
+      0,
+      176,
+      240
+    ]
+  },
+  {
+    "texto": " de ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[MesAssinadoExtenso]",
+    "bold": false,
+    "color": [
+      0,
+      176,
+      240
+    ]
+  },
+  {
+    "texto": " de ",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": "[AnoAssinado]",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "texto": ".\n\n",
+    "bold": false,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  }
+]
